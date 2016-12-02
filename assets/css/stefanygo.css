@@ -1,0 +1,15 @@
+/* StefanyGo.com
+
+Custom CSS File
+*/
+
+
+#logo span {
+	max-width: 60px;
+}
+
+@media (max-width: 1320px) {
+	#logo span {
+		max-width: 140px;
+	}
+}
